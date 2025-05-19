@@ -1,0 +1,90 @@
+{
+  "workouts": [
+    {
+      "id": "1277d8b2-f0ed-4607-9295-0185009e6a72",
+      "name": "Dumble Hammer Curl",
+      "mode": "For Time",
+      "equipment": [
+        "barbell",
+        "rope"
+      ],
+      "exercises": [
+        "21 thrusters",
+        "12 rope climbs, 15 ft",
+        "15 thrusters",
+        "9 rope climbs, 15 ft",
+        "9 thrusters",
+        "6 rope climbs, 15 ft"
+      ],
+      "trainerTips": [
+        "Do some decent works instead."
+      ],
+      "createdAt": "5/19/25, 4:02:14 PM",
+      "updatedAt": "5/19/25, 5:45:05 PM"
+    },
+    {
+      "id": "35e02585-83ed-4ea9-909c-b729e6a6de04",
+      "name": "Tommy V",
+      "mode": "For Time",
+      "equipment": [
+        "barbell",
+        "rope"
+      ],
+      "exercises": [
+        "21 thrusters",
+        "12 rope climbs, 15 ft",
+        "15 thrusters",
+        "9 rope climbs, 15 ft",
+        "9 thrusters",
+        "6 rope climbs, 15 ft"
+      ],
+      "trainerTips": [
+        "Split the 21 thrusters as needed",
+        "Try to do the 9 and 6 thrusters unbroken",
+        "RX Weights: 115lb/75lb"
+      ],
+      "createdAt": "5/19/25, 5:41:01 PM",
+      "updatedAt": "5/19/25, 5:41:01 PM"
+    },
+    {
+      "id": "c3014cd3-9a77-4ec7-a8b3-ea47f23e767e",
+      "name": "Dead Push-Ups",
+      "mode": "AMRAP 10",
+      "equipment": [
+        "barbell"
+      ],
+      "exercises": [
+        "15 deadlifts",
+        "15 hand-release push-ups"
+      ],
+      "trainerTips": [
+        "Deadlifts are meant to be light and fast",
+        "Try to aim for unbroken sets",
+        "RX Weights: 135lb/95lb"
+      ],
+      "createdAt": "5/19/25, 5:41:44 PM",
+      "updatedAt": "5/19/25, 5:41:44 PM"
+    },
+    {
+      "id": "efff3ded-0ca2-4f5d-a165-5f46d4d23e6b",
+      "name": "Heavy DT",
+      "mode": "5 Rounds For Time",
+      "equipment": [
+        "barbell",
+        "rope"
+      ],
+      "exercises": [
+        "12 deadlifts",
+        "9 hang power cleans",
+        "6 push jerks"
+      ],
+      "trainerTips": [
+        "Aim for unbroken push jerks",
+        "The first three rounds might feel terrible, but stick to it",
+        "RX Weights: 205lb/145lb"
+      ],
+      "createdAt": "5/19/25, 5:42:18 PM",
+      "updatedAt": "5/19/25, 5:42:18 PM"
+    }
+  ]
+}
